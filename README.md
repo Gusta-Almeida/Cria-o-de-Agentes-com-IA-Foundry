@@ -1,1 +1,1 @@
-# Cria-o-de-Agentes-com-IA-Foundry
+# Cria-o-de-Agents-de-IA-com-o-AI-Foundry-40h
